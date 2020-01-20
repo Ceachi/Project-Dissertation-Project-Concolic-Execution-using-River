@@ -61,7 +61,9 @@ At this moment, we managed to implement some optimizations in concolic execution
  2. Automated Whitebox Fuzz Testing, Patrice Godefroid Microsoft (Research), Michael Y. Levin Microsoft (CSE), David Molnar UC Berkeley (https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)  
  
  ## Project:
-  1. Link: https://github.com/AGAPIA/simpletracer
+  1. Project link (not the full project): https://github.com/AGAPIA/simpletracer
+  2. For the algorithm (not the full project): https://github.com/Ceachi/Dissertation-Project-Concolic-Execution-using-River/tree/master/concolic_execution_algorithm/testingExecution
+  
  
  
  

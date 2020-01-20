@@ -1,0 +1,683 @@
+[INF|CNTNR|___|_] Feature flags 00000006, entrypoint 28cdc01d
+[INF|RUNTM|___|_] BlockCache initialized @0x2811d088
+[INF|RUNTM|___|_] BlockCache hashtable @0x270dd000
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdc01d
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a956c0 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a93510 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a88c40 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a88740 to 0x289db440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87540 to 0x289db440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3970 to 0x289dac80
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa2e20 to 0x289dac80
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9ec80 to 0x289dae60
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0a40 to 0x289dae60
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a923e0 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8e1b0 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89a20 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a923f0 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8e1c0 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89a30 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3cc0 to 0x289f4060
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3390 to 0x289f4060
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a881b0 to 0x289db250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87b30 to 0x289db250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a881c0 to 0x289db260
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87b40 to 0x289db260
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f4130 to 0x289dd3f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3b30 to 0x289dd3f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e83f0 to 0x289db610
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ecc90 to 0x289db610
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e6b80 to 0x289db530
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ec680 to 0x289db530
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9f810 to 0x289f4440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a99620 to 0x289f4440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9f840 to 0x289f43f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a99650 to 0x289f43f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289edd80 to 0x289d8da0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ef7f0 to 0x289d8da0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3670 to 0x289d8f90
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa2410 to 0x289d8f90
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9e6b0 to 0x289d91a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a967c0 to 0x289d91a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e27c0 to 0x289d9250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289eb060 to 0x289d9250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa02c0 to 0x289d9310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9fd10 to 0x289f4500
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9bb30 to 0x289f4500
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9fd40 to 0x289f44a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9bb60 to 0x289f44a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f0080 to 0x289f3620
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f29f0 to 0x289f3620
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e4010 to 0x289e2760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289eb650 to 0x289e2760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3e50 to 0x289f4350
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0430 to 0x289d9c30
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3780 to 0x289d9a40
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa27f0 to 0x289d9a40
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0570 to 0x289d9fd0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4b40 to 0x28a04710
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a036b0 to 0x28a043a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4fe0 to 0x28a04760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a043e0 to 0x28a045e0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4d20 to 0x28a04740
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa06a0 to 0x28a04650
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4540 to 0x28a04650
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a90410 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8a1d0 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a893e0 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a90420 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8a1e0 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a893f0 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a913f0 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8c1d0 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89700 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a91400 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8c1e0 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89710 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e2690 to 0x289d9820
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa20f0 to 0x289d9820
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9e940 to 0x289e25d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a97c30 to 0x289e25d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a956c0 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a93510 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a88c40 to 0x289db3b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a88740 to 0x289db440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87540 to 0x289db440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3970 to 0x289dac80
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa2e20 to 0x289dac80
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9ec80 to 0x289dae60
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0a40 to 0x289dae60
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a923e0 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8e1b0 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89a20 to 0x289db1a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a923f0 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8e1c0 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89a30 to 0x289db1b0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3cc0 to 0x289f4060
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3390 to 0x289f4060
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a881b0 to 0x289db250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87b30 to 0x289db250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a881c0 to 0x289db260
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a87b40 to 0x289db260
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f4130 to 0x289dd3f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3b30 to 0x289dd3f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e83f0 to 0x289db610
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ecc90 to 0x289db610
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e6b80 to 0x289db530
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ec680 to 0x289db530
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9f810 to 0x289f4440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a99620 to 0x289f4440
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9f840 to 0x289f43f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a99650 to 0x289f43f0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289edd80 to 0x289d8da0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289ef7f0 to 0x289d8da0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3670 to 0x289d8f90
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa2410 to 0x289d8f90
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9e6b0 to 0x289d91a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a967c0 to 0x289d91a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e27c0 to 0x289d9250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289eb060 to 0x289d9250
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa02c0 to 0x289d9310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9fd10 to 0x289f4500
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9bb30 to 0x289f4500
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9fd40 to 0x289f44a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9bb60 to 0x289f44a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f0080 to 0x289f3620
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f29f0 to 0x289f3620
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e4010 to 0x289e2760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289eb650 to 0x289e2760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa3e50 to 0x289f4350
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0430 to 0x289d9c30
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289f3780 to 0x289d9a40
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa27f0 to 0x289d9a40
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa0570 to 0x289d9fd0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4b40 to 0x28a04710
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a036b0 to 0x28a043a0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4fe0 to 0x28a04760
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a043e0 to 0x28a045e0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4d20 to 0x28a04740
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa06a0 to 0x28a04650
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa4540 to 0x28a04650
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a90410 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8a1d0 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a893e0 to 0x289db8c0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a90420 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8a1e0 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a893f0 to 0x289db8d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a913f0 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8c1d0 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89700 to 0x289db310
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a91400 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a8c1e0 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a89710 to 0x289db320
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x289e2690 to 0x289d9820
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28aa20f0 to 0x289d9820
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a9e940 to 0x289e25d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] Added detour from 0x28a97c30 to 0x289e25d0
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|CNTNR|___|_] STOPPER: 0x2879eeee.
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf27
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf42
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf4f
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf64
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf71
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdbf8b
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28cdc030
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 2811d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2879eeee
+[INF|BRHND|___|_] [Parent] BH direction other
+[INF|CNTNR|___|_] Done. ret = 0
+
+d0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2894e025
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946bc0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28a22285
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946bcb
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946bfd
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c0b
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946de8
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c23
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c37
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c42
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c4e
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c5c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946e18
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946e1d
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c6e
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c7a
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4c0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4d7
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4e1
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4e9
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4ee
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d4f8
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d500
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d523
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d534
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d543
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d552
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d561
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d573
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d57e
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d589
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d594
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5a2
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5ad
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5b8
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5c3
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5d1
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5dc
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5e7
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d520
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d5ff
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d603
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d607
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d60c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d610
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d618
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897d61c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946c90
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946cb1
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946f00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c616f0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c61719
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946f29
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946cdd
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946cf2
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d03
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d10
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896d9f0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896da05
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896dad0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896dae0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896daf0
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896daf9
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db00
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db08
+[INF|BRHND|___|_] [Parent] BH direction advance
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896db0c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896da2d
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897b320
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897b335
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2897b33c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896da44
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2896da5c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d47
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946e60
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d5c
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d6a
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d73
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d84
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d91
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946e30
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c61760
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c61778
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c6178b
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946e4e
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28946d9f
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2894e046
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c7bf88
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x28c7c030
+[INF|BRHND|___|_] [Parent] BH direction advance
+[DBG|_____|___|_] ## this: 280bd0ac
+[INF|BRHND|___|_] [BranchHandler] next instr 0x2873eeee
+[INF|BRHND|___|_] [Parent] BH direction other
+[INF|CNTNR|___|_] Done. ret = 0
+

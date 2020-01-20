@@ -1,0 +1,12 @@
+Test: 28cdbf27 - Taken 28cdbf42, NotTaken 28cdbf3e. Was taken ? Yes
+1 0 (= (bvnot (ite (= |s[0]| #x62) #b1 #b0)) |0x28cdbf27|)
+
+Test: 28cdbf42 - Taken 28cdbf53, NotTaken 28cdbf4f. Was taken ? No
+1 1 (= (bvnot (ite (= |s[1]| #x61) #b1 #b0)) |0x28cdbf42|)
+
+Test: 28cdbf4f - Taken 28cdbf64, NotTaken 28cdbf60. Was taken ? Yes
+1 2 (= (bvnot (ite (= |s[2]| #x64) #b1 #b0)) |0x28cdbf4f|)
+
+Test: 28cdbf64 - Taken 28cdbf75, NotTaken 28cdbf71. Was taken ? No
+1 3 (= (bvnot (ite (= |s[3]| #x21) #b1 #b0)) |0x28cdbf64|)
+

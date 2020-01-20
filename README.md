@@ -60,4 +60,8 @@ At this moment, we managed to implement some optimizations in concolic execution
  1. RIVER: A Binary Analysis Framework using Symbolic Execution and Reversible x86 Instructions, Teodor Stoenescu , Alin Stefanescu , Sorina Predut, Florentin Ipate (http://www.ifsoft.ro/~florentin.ipate/publications/RiverFM16.pdf)  
  2. Automated Whitebox Fuzz Testing, Patrice Godefroid Microsoft (Research), Michael Y. Levin Microsoft (CSE), David Molnar UC Berkeley (https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)  
  
+ ## Project:
+  1. Link: https://github.com/AGAPIA/simpletracer
+ 
+ 
  

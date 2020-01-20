@@ -12,7 +12,7 @@
  
  ## Part 1 - Foundations
  
- |[![Foundations](images/image1.PNG)]
+ [![Foundations](images/image1.PNG)]
  
   Almost all the tools on the security market which aim to detect vulnerabilities of source or binary code employ static analysis or, more rarely, dynamic analysis through random values, a technique called fuzz testing.  
  Symbolic execution(an example can be seen in the right image in the figure) is a promising approach whose foundational principles were laid thirty years ago, but which only recently started to regain attention from the research community due to advancement in constraint solving, various combinations of concrete and symbolic execution, and more computing power to fight the usual state explosion problem. The basic idea of symbolic execution is to mark (some of) the program
@@ -23,7 +23,7 @@ variables as symbolic rather than concrete and execute the program symbolically 
   
  ## Overview about River execution:
  
- |[![RIVER architecture](images/image2.PNG)]
+ [![RIVER architecture](images/image2.PNG)]
  Basic blocks translation - Each time when a new block is given for execution (and not in the cache):
   - the code is disassembled from x86 and converted to River instruction code;
   - Pre instructions are decorated;
@@ -33,7 +33,7 @@ variables as symbolic rather than concrete and execute the program symbolically 
 Our “Reversible execution engine” uses a shadow stack to save instruction operands that are about to be destroyed, prefix original instructions operand-saving ones and generate code for reversing the execution (restores destroyed values from the shadow stack.  
 
 Results from our optimized concolic execution engine:
-[![Results](images/image3.PNG)]
+![Results](images/image3.PNG)]
 
 At this moment, we managed to implement some optimizations in concolic execution techniques inspired from SAGE [2], that is not open-source, with similar results, and we are working for other subsequent optimizations published by the same author. What we need, however to be competitive in performance and to be able to publish something on the research side (not just another similar tool – which would have the advantage of being open source free):  
 

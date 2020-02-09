@@ -10,6 +10,9 @@
  3. Main code in this github (must be added)
  For the algorithm (not the full project): https://github.com/Ceachi/Dissertation-Project-Concolic-Execution-using-River/tree/master/concolic_execution_algorithm/testingExecution
  
+ ##Video
+ YouTube link: https://youtu.be/ppL5OD2EOo4
+ 
  ## Introduction
  
  The purpose planned with River by us (and the entire suite of tools) is to create a free, open source platform, for fuzzing, symbolic and concolic execution at the level of the online service paid by Microsoft Security. It’s deployment will be online with a web service, preinstalled docker image or buildable source code.  

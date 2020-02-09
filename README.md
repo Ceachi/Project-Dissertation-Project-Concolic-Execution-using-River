@@ -4,6 +4,11 @@
  1. Ceachi Bogdan (developer)
  2. Ciprian Paduraru (coordinator)
  
+ ## Project links:
+ 1. River: https://github.com/AGAPIA/river
+ 2. SimpleTracer: https://github.com/AGAPIA/simpletracer
+ 3. Main code in this github (must be added)
+ 
  ## Introduction
  
  The purpose planned with River by us (and the entire suite of tools) is to create a free, open source platform, for fuzzing, symbolic and concolic execution at the level of the online service paid by Microsoft Security. It’s deployment will be online with a web service, preinstalled docker image or buildable source code.  

@@ -70,6 +70,7 @@ At this moment, we managed to implement some optimizations in concolic execution
  2. Automated Whitebox Fuzz Testing, Patrice Godefroid Microsoft (Research), Michael Y. Levin Microsoft (CSE), David Molnar UC Berkeley (https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)  
  
 
- 
+ ## Others
+Z3-guide: https://rise4fun.com/z3/tutorial
  
  

@@ -1,8 +1,8 @@
 # How to find bugs in your (x86) code RIVER tool
 
 ## Project members:
- 1. Ceachi Bogdan (developer)
- 2. Ciprian Paduraru (coordinator)
+ 1. Ceachi Bogdan (developer): https://github.com/Ceachi
+ 2. Ciprian Paduraru (coordinator) https://github.com/paduraru2009
  
  ## Project code
  1. River: https://github.com/AGAPIA/river

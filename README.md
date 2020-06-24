@@ -69,6 +69,12 @@ At this moment, we managed to implement some optimizations in concolic execution
  1. RIVER: A Binary Analysis Framework using Symbolic Execution and Reversible x86 Instructions, Teodor Stoenescu , Alin Stefanescu , Sorina Predut, Florentin Ipate (http://www.ifsoft.ro/~florentin.ipate/publications/RiverFM16.pdf)  
  2. Automated Whitebox Fuzz Testing, Patrice Godefroid Microsoft (Research), Michael Y. Levin Microsoft (CSE), David Molnar UC Berkeley (https://patricegodefroid.github.io/public_psfiles/ndss2008.pdf)  
  
+3. Fuzz Testing with Dynamic Taint Analysis based Tools for Faster Code Coverage:
+(https://www.scitepress.org/Link.aspx?doi=10.5220%2F0007921300820093&fbclid=IwAR2LrBkPyM-FtYNYtXcK6fdurotCjsjvl8GpMfn4V6KwY6bXw3OcrBYrECw)
+
+4. Automatic Test Data Generation for a Given Set of Applications Using Recurrent Neural Networks:
+(https://link.springer.com/chapter/10.1007%2F978-3-030-29157-0_14?fbclid=IwAR1m924PhP-zqtzMBVWLzx7z9XIAhlC6pFExN2unL1QDazJkXPA1nZSUHPw)
+ 
 
  ## Others
 Z3-guide: https://rise4fun.com/z3/tutorial
